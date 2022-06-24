@@ -6,3 +6,7 @@
 **/processor*
 **/log*
 **/*.foam
+**/sequencedVTK*
+**/images
+**/*.jpg
+**/*.png
